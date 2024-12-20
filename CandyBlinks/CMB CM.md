@@ -1,0 +1,2 @@
+Candy Machine Address Fmr2wGYQs1187W6tjxZ2qbQ11QzKiA1cuxBRCLAsSUwK
+Collection Address GYbzWDnEvGu9LYhkr9dnPMaaZGfWDAHCSdJNoGoTZQQu

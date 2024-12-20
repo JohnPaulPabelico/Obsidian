@@ -1,0 +1,4 @@
+- Metaplex Grant
+- Echo
+- UI for "down"
+- Need better UX for phase selection
