@@ -1,0 +1,6 @@
+- Pointshub and Absinthe are two separate "companies" but both under the same people
+	- Pointshub - Hub for other platform's point system so literal hub lang siya
+	- Absinth - Nagooffer sila to create the point system and program from scratch, so basically sila na mismo gagawa ng pinaka infrastructure ng point system natin
+- Sa ngayon di pa supported Solana so maiintegrate natin sila Mid-February pa.
+- Pricing wise yung $450 for their **Basic** plan would be sufficient enough for us, this plan allows us to incentivize users for social media interactions like X follows, share, rts. Pero limited ang onchain actions, kumbaga namention sa meet na pwede mo incentivize users for holding a specific NFT
+- Yung **Pro** plan nila which would start at around $1500 daw, pinaka difference nito is it basically unlocks lahat ng onchain activities. So most likely etong pro plan for future iteration na to and most likely sa marketplace na to papasok
